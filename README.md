@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vianymoz
-- 👀 I’m interested in -> tech, gaming, photography..
-- 🌱 I’m currently learning -> React
-- 💞️ I’m looking to collaborate on -> 
+- 📷 I’m photographer and video editor..
+- 🌱 I’m currently learning -> React 
 - 📫 How to reach me -> vianymoz@gmail.com
 
 <!---
