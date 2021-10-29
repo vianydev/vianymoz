@@ -1,7 +1,21 @@
-- 👋  Hi, I’m @vianymoz
-- 📷  I’m photographer and web developer in progress
-- 💻  I’m currently learning -> React - Redux
-- 📫  How to reach me -> vianymarcelo@gmail.com
+# 👋  Hi, My name is Vianey
+## I’m Front-end developer in progress
+
+### Tech that I work with
+- HTML/CSS
+- JavaScript
+- React
+
+### About me
+- 📷   Photographer since 2013
+- 🎮   I love coffee and video games
+- 📝   Self-taught, I'm constantly learning something new
+
+
+### How to reach me 
+[vianymarcelo@gmail.com](mailto:vianymarcelo@gmail.com)
+### Social media 
+[Instagram](https://www.instagram.com/vianymoz) - [twitter](https://www.twitter.com/vianymoz)
 
 <!---
 vianymoz/vianymoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
