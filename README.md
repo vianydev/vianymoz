@@ -9,7 +9,7 @@
 ### About me
 - 📷   Photographer since 2013
 - 🎮   I love coffee and video games
-- 📝   Self-taught, I'm constantly learning something new
+- 📝   Self-taught learner, I'm constantly learning something new
 
 
 ### How to reach me 
